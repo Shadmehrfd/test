@@ -1,1 +1,1 @@
-print('balabalbalbala')
+import random
